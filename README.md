@@ -54,11 +54,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
-## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/YourUsername/YourRepoName.git
-
-pip install -r requirements.txt
 
